@@ -1,0 +1,16 @@
+principles:
+  - id: kb01
+    title: Burden of Proof (Criminal)
+    text: In criminal cases the prosecution must prove the defendant's guilt beyond a reasonable doubt.
+  - id: kb02
+    title: Reasonable Doubt
+    text: A real possibility that the defendant is not guilty; if such doubt exists, the jury must acquit.
+  - id: kb03
+    title: Hearsay (Simplified)
+    text: Out-of-court statements offered to prove the truth of the matter asserted are generally inadmissible unless an exception applies.
+  - id: kb04
+    title: Relevance
+    text: Evidence is admissible if it has any tendency to make a fact of consequence more or less probable than it would be without the evidence.
+  - id: kb05
+    title: Impeachment
+    text: A witness may be impeached by showing bias, prior inconsistent statements, or lack of perception.
